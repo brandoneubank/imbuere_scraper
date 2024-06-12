@@ -1,8 +1,0 @@
-setup.py
-imbuere_scraper/__init__.py
-imbuere_scraper/scraper.py
-imbuere_scraper_package.egg-info/PKG-INFO
-imbuere_scraper_package.egg-info/SOURCES.txt
-imbuere_scraper_package.egg-info/dependency_links.txt
-imbuere_scraper_package.egg-info/entry_points.txt
-imbuere_scraper_package.egg-info/top_level.txt

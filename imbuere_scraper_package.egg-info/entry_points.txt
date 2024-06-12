@@ -1,2 +1,0 @@
-[console_scripts]
-scrape = imbuere_scraper.scraper:main
